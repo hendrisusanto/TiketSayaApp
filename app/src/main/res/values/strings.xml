@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TiketSaya</string>
+
+    <string name="slogan">Wisata Jadi Lebih Asyik!</string>
+    <string name="discovery">Discover <br>The Beauty</br><br>Of Earth</br></string>
+    <string name="sigin">SIGN IN</string>
+    <string name="newacnt">NEW ACCOUNT</string>
+    <string name="embelm">emblem</string>
+    <string name="applogowarna">logo app</string>
+    <string name="applogowhite">logo app</string>
+
+    <string name="usename_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="nama_user">nama user</string>
+    <string name="CreateNewAccount">Create New Account</string>
+    <string name="email_label">Email Address</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="iconBack">Icon Back</string>
+    <string name="PleaseFill">Please fill up the forms below <br>for informationst</br></string>
+    <string name="selfie">Selfie Time</string>
+    <string name="let_the_world">Let the world knows yourself <br> more better and ever</br></string>
+    <string name="name_label">Name</string>
+    <string name="bio_label">Your Passion?</string>
+    <string name="Bio">Bio</string>
+    <string name="plus">+</string>
+    <string name="explore">EXPLORE NOW</string>
+    <string name="kamuhebat">Kamu Hebat</string>
+    <string name="selamat_datang">Selamat datang pada TiketSaya <br> dan nikmati wisatamu </br></string>
+    <string name="dasboard">My Dashboard</string>
+    <string name="balance">US$ 0</string>
+    <string name="mainMenus">Main Menus</string>
+    <string name="exploreword">Explore the beauty of world</string>
+    <string name="pisa">Pisa</string>
+    <string name="torri">Torri</string>
+    <string name="pagoda">Pagoda</string>
+    <string name="candi">Candi</string>
+    <string name="sphinx">Sphinx</string>
+    <string name="monas">Monas</string>
+    <string name="TicketTips">TicketTips</string>
+    <string name="Learnit">Learn it for many benefits</string>
+    <string name="mytickets">My Tickets</string>
+    <string name="MenaraPisa">Menara Pisa</string>
+    <string name="PisaCityItaly">Pisa City, Italy</string>
+    <string name="EDITPROFILE">EDIT PROFILE</string>
+    <string name="SIGNOUT">SIGN OUT</string>
+    <string name="Information">Information</string>
+    <string name="Knowingbeforetravel">Knowing before travel</string>
+    <string name="Photo3Spots">3 Photo Spots</string>
+    <string name="Tripodeverywhere">Tripod everywhere</string>
+    <string name="WiFiAvailable">WiFi Available</string>
+    <string name="Connectforanytourist">Connect for any tourist</string>
+    <string name="Festivals13">13 Festivals</string>
+    <string name="DanceandFoods">Dance and Foods</string>
+    <string name="dec_pisa">The leaning of the Tower of Pisa <br>comes into the story in 1173,  when
+    </br> <br>construction began.</br></string>
+    <string name="dec_pisa_buy">Anak yang berumur lebih dari 3 tahun <br>wajib membeli tiket untuk masuk
+    </br> <br>kedalam landmark.</br></string>
+    <string name="BUYTICKET">BUY TICKET</string>
+    <string name="BuyTicket">Buy Ticket</string>
+    <string name="TicketDetails">Ticket Details</string>
+    <string name="Pricing">Pricing</string>
+    <string name="Yourcurrentbalance">Your current balance is</string>
+    <string name="usdolar">US$ 0</string>
+    <string name="totalprice">Total Price</string>
+    <string name="PAYNOW">PAY NOW</string>
+    <string name="VIEWTICKETS">VIEW TICKETS</string>
+    <string name="MYDASHBOARD">MY DASHBOARD</string>
+    <string name="Selamatenikmati">Selamat Menikmati</string>
+    <string name="Date">Date</string>
+    <string name="January222021">January 22, 2021</string>
+    <string name="Time">Time</string>
+    <string name="nameuser">XXXXX</string>
+    <string name="AM10to12PM">10AM to 12PM</string>
+    <string name="REFUNDNOW">REFUND NOW</string>
+    <string name="Name">Name</string>
+    <string name="PisaInfo">Anak yang berumur lebih dari 3 tahun <br>wajib membeli tiket untuk masuk</br>
+        <br>kedalam landmark</br></string>
+    <string name="save_profil">SAVE PROFILE</string>
+    <string name="txt_edit_profile">We highly suggest you to use the correct informations</string>
+
+    <string name="Checktheamountoftickets">Check the amount of tickets</string>
+    <string name="andaberhasil">Anda berhasil membeli tiket <br>dan selamat berlibur</br></string>
+
+
+</resources>
